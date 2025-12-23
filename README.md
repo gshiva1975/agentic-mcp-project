@@ -19,6 +19,9 @@ step 2
 start the claude agent ui
 
 # Video analysis summaraziation project
+step 1
+open video-anlysis.ipynb in google colab and run the steps.
+
 
 
 
